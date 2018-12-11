@@ -1,0 +1,9 @@
+{
+  "name": "vue-cli-plugin-udyux",
+  "version": "0.0.1",
+  "description": "A Vue CLI 3 plugin for to set up a udyux flavoured VueJS SPA project.",
+  "main": "index.js",
+  "repository": "https://github.com/udyux/vue-cli-plugin-udyux",
+  "author": "Nicolas Udy <dev@udy.io>",
+  "license": "MIT"
+}
